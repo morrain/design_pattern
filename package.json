@@ -1,0 +1,27 @@
+{
+  "name": "design_pattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morrain/design_pattern.git"
+  },
+  "keywords": [
+    "design",
+    "pattern"
+  ],
+  "author": "morrain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/morrain/design_pattern/issues"
+  },
+  "homepage": "https://github.com/morrain/design_pattern#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
